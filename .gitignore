@@ -1,0 +1,11 @@
+# Ignore everything by default
+/*
+
+# ...except the homepage preview and its local assets
+!.gitignore
+!index.html
+!wag_logo.png
+!david-thorne-pic.jpg
+!Jason-Cohen-pic.jpg
+!Joe-Final-pic.jpg
+!lauren-coverdale-pic.jpg
